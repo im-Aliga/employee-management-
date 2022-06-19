@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "homq0r3RFAAR3XxmYjQD4j01UBN9hrLyzX1tcUHsCpZqjeVQ0i0ZwFOBFK8vvD/rq9rtGhovofnSqgsW3lbkLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\taskweekend\\taskweekend\\taskweekend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\taskweekend\taskweekend\bin\Debug\net5.0\taskweekend.exe
+C:\Users\ASUS\Desktop\taskweekend\taskweekend\bin\Debug\net5.0\taskweekend.deps.json
+C:\Users\ASUS\Desktop\taskweekend\taskweekend\bin\Debug\net5.0\taskweekend.runtimeconfig.json
+C:\Users\ASUS\Desktop\taskweekend\taskweekend\bin\Debug\net5.0\taskweekend.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\taskweekend\taskweekend\bin\Debug\net5.0\taskweekend.dll
+C:\Users\ASUS\Desktop\taskweekend\taskweekend\bin\Debug\net5.0\taskweekend.pdb
+C:\Users\ASUS\Desktop\taskweekend\taskweekend\obj\Debug\net5.0\taskweekend.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\taskweekend\taskweekend\obj\Debug\net5.0\taskweekend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\taskweekend\taskweekend\obj\Debug\net5.0\taskweekend.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\taskweekend\taskweekend\obj\Debug\net5.0\taskweekend.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\taskweekend\taskweekend\obj\Debug\net5.0\taskweekend.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\taskweekend\taskweekend\obj\Debug\net5.0\taskweekend.dll
+C:\Users\ASUS\Desktop\taskweekend\taskweekend\obj\Debug\net5.0\refint\taskweekend.dll
+C:\Users\ASUS\Desktop\taskweekend\taskweekend\obj\Debug\net5.0\taskweekend.pdb
+C:\Users\ASUS\Desktop\taskweekend\taskweekend\obj\Debug\net5.0\taskweekend.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\taskweekend\taskweekend\obj\Debug\net5.0\ref\taskweekend.dll
